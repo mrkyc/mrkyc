@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcin
 
-<!--
-**mrkyc/mrkyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Turning curiosity into insights through data, technology, and analytics.**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- SQL & Python
+- Machine Learning
+- Tableau & Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 💸🌻 [cashflower](https://github.com/mrkyc/cashflower): Portfolio analytics platform that processes transaction data and user settings to generate performance metrics, asset allocation insights, and cash flow analysis with API and web interface.
+  - 🧩 Custom SQLite extensions developed for this project:
+    - 🔌 [sqlite-xirr-extension](https://github.com/mrkyc/sqlite-xirr-extension): SQLite extension for XIRR financial calculations.
+    - 🔌 [sqlite-stddev-extension](https://github.com/mrkyc/sqlite-stddev-extension): SQLite extension for standard deviation calculations.
+- 📜✒️ [poetize](https://github.com/mrkyc/poetize): An AI-powered app that reimagines song lyrics as custom poetry using Retrieval-Augmented Generation, turning music into a unique and entertaining poetic experience.
+- 🔊🏷️ [sound-classifier-using-cnn](https://github.com/mrkyc/sound-classifier-using-cnn): Audio classification with Convolutional Neural Networks.
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mkarcin13703599913/)
